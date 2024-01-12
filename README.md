@@ -7,7 +7,7 @@ D’après les données recueillies par Statista, le volume de données numériq
 
 Cependant, ce volume semble modeste par rapport aux prévisions pour les années à venir. Selon ces estimations, le volume de données produites mondialement devrait atteindre plus de 180 zettaoctets d’ici 2025, ce qui représente une croissance annuelle moyenne de près de 40% sur une période de cinq ans. 😊
 
-###A. Qu’est ce qu’une donnée ? Sous quelle forme peut-elle se présenter ?
+### A. Qu’est ce qu’une donnée ? Sous quelle forme peut-elle se présenter ?
 
 Une donnée est une représentation symbolique d’une information qui peut être manipulée par un ordinateur ou d’autres dispositifs. Les données peuvent se présenter sous diverses formes, y compris :
 Données numériques : Ce sont des chiffres qui peuvent être utilisés dans des calculs. Par exemple, l’âge d’une personne, le nombre de ventes effectuées par une entreprise, etc.
@@ -17,7 +17,7 @@ Données audio : Il s’agit de sons, de voix ou de musique.
 Données vidéo : Il s’agit de séquences d’images en mouvement, souvent accompagnées de son.
 Données géographiques : Il s’agit de données liées à un emplacement ou à une position sur la Terre. Par exemple, les coordonnées GPS, les cartes, etc.
 
-###B. Donnez et expliquez les critères de mesure de qualité des données.
+### B. Donnez et expliquez les critères de mesure de qualité des données.
 
 La qualité des données peut être mesurée selon ces critères :
 Exactitude : L’exactitude fait référence à la proximité des valeurs de données à leurs valeurs réelles. Des données inexactes peuvent conduire à des conclusions erronées.
@@ -30,7 +30,7 @@ Unicité : L’unicité fait référence à l’absence de doublons dans les don
 Chaque critère aide à s’assurer que les données sont de haute qualité et utiles pour l’analyse.
 
 
-###C. Définissez et comparez les notions de Data Lake, Data Warehouse et Lake
+### C. Définissez et comparez les notions de Data Lake, Data Warehouse et Lake
 House. Illustrez les différences à l’aide de schémas.
 
 
