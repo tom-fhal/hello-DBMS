@@ -1,5 +1,0 @@
-Job 01 
-
-SELECT population FROM world WHERE name = 'Germany'
-SELECT name, population FROM world WHERE name IN ('Sweden', 'Norway', 'Denmark')
-SELECT name FROM world WHERE area > 200000 AND area < 300000

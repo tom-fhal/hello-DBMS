@@ -1,8 +1,0 @@
-SELECT name FROM world WHERE name LIKE 'B%'
-SELECT name FROM world WHERE name LIKE 'Al%'
-SELECT name FROM world WHERE name LIKE '%y'
-SELECT name FROM world WHERE name LIKE '%land'
-SELECT name FROM world WHERE name LIKE '%w%'
-SELECT name FROM world WHERE name LIKE '%oo%' OR name LIKE '%ee%'
-SELECT name FROM world WHERE name LIKE '%a%a%a%'
-SELECT name FROM world WHERE name LIKE '_r%'
