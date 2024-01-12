@@ -7,7 +7,7 @@ D’après les données recueillies par Statista, le volume de données numériq
 
 Cependant, ce volume semble modeste par rapport aux prévisions pour les années à venir. Selon ces estimations, le volume de données produites mondialement devrait atteindre plus de 180 zettaoctets d’ici 2025, ce qui représente une croissance annuelle moyenne de près de 40% sur une période de cinq ans. 😊
 
-##A. Qu’est ce qu’une donnée ? Sous quelle forme peut-elle se présenter ?
+###A. Qu’est ce qu’une donnée ? Sous quelle forme peut-elle se présenter ?
 
 Une donnée est une représentation symbolique d’une information qui peut être manipulée par un ordinateur ou d’autres dispositifs. Les données peuvent se présenter sous diverses formes, y compris :
 Données numériques : Ce sont des chiffres qui peuvent être utilisés dans des calculs. Par exemple, l’âge d’une personne, le nombre de ventes effectuées par une entreprise, etc.
@@ -17,7 +17,7 @@ Données audio : Il s’agit de sons, de voix ou de musique.
 Données vidéo : Il s’agit de séquences d’images en mouvement, souvent accompagnées de son.
 Données géographiques : Il s’agit de données liées à un emplacement ou à une position sur la Terre. Par exemple, les coordonnées GPS, les cartes, etc.
 
-##B. Donnez et expliquez les critères de mesure de qualité des données.
+###B. Donnez et expliquez les critères de mesure de qualité des données.
 
 La qualité des données peut être mesurée selon ces critères :
 Exactitude : L’exactitude fait référence à la proximité des valeurs de données à leurs valeurs réelles. Des données inexactes peuvent conduire à des conclusions erronées.
@@ -30,7 +30,7 @@ Unicité : L’unicité fait référence à l’absence de doublons dans les don
 Chaque critère aide à s’assurer que les données sont de haute qualité et utiles pour l’analyse.
 
 
-##C. Définissez et comparez les notions de Data Lake, Data Warehouse et Lake
+###C. Définissez et comparez les notions de Data Lake, Data Warehouse et Lake
 House. Illustrez les différences à l’aide de schémas.
 
 
@@ -41,18 +41,18 @@ Lake House56 : Un Lake House est un nouveau paradigme qui combine les meilleurs 
 
 
 
-##D. Donnez une définition et des exemples de systèmes de gestion de bases de
+### D. Donnez une définition et des exemples de systèmes de gestion de bases de
 données avec des illustrations.
 Les systèmes de gestion de base de données ont un acronyme, les SGBD.Les SGBD  sont des logiciels qui permettent de créer et de gérer des bases de données. Ils fournissent une interface entre les utilisateurs finaux et les bases de données elles-mêmes, garantissant que les données sont organisées de manière efficace et sont facilement accessibles.
 
 
-##E. Qu’est ce qu’une base de données relationnelle ? Qu’est ce qu’une base de données non relationnelle ? Donnez la différence entre les deux avec des
+### E. Qu’est ce qu’une base de données relationnelle ? Qu’est ce qu’une base de données non relationnelle ? Donnez la différence entre les deux avec des
 exemples d’applications.
 Les bases de données relationnelles organisent les données en tables avec des lignes et des colonnes. Chaque ligne représente un enregistrement et chaque colonne représente un champ. Cette structure permet de faire des requêtes et de manipuler les données facilement grâce au langage de requête structuré (SQL).Elles sont souvent utilisées dans des domaines tels que la finance et le commerce de détail pour stocker, assurer et fiabiliser leurs transactions.
 D’un autre côté, une base de données non relationnelle, également connue sous le nom de base de données NoSQL, est un type de base de données qui n’utilise pas la structure relationnelle traditionnelle basée sur des tables. Au lieu de cela, les bases de données non relationnelles utilisent divers modèles de données, tels que clé-valeur, document, famille de colonnes et graphiques. Elles sont souvent utilisées par des entreprises qui ont besoin de stocker de grandes quantités de données diversifiées, comme Twitter ou Facebook, qui stockent chaque jour plusieurs téraoctets de données.
 
 
-##F. Définissez les notions de clé étrangère et clé primaire.
+### F. Définissez les notions de clé étrangère et clé primaire.
 Une clé unique est un identifiant unique pour chaque enregistrement de la table. Une clé étrangère fait référence à un identifiant unique d’une autre table.G. Quelles sont les propriétés ACID ?
 
 
@@ -64,13 +64,13 @@ Isolation : Même si plusieurs tâches se déroulent en même temps, chacune est
 Durabilité : Une fois la tâche terminée, tout ce qui a été fait reste, même si le système tombe en panne.
 
 
-##H. Définissez les méthodes Merise et UML. Quelles sont leur utilité dans le monde de l’informatique ? Donnez des cas précis d’utilisation avec des schémas.
+### H. Définissez les méthodes Merise et UML. Quelles sont leur utilité dans le monde de l’informatique ? Donnez des cas précis d’utilisation avec des schémas.
 
 
 Merise est une méthode d’analyse et de conception de projet informatique, utilisée pour l’informatisation des organisations. UML (Unified Modeling Language) est un langage de modélisation standardisé utilisé en génie logiciel pour visualiser, spécifier, construire et documenter un système. Ces deux méthodes aident à structurer et à planifier les projets informatiques.
 
 
-##I. Définissez le langage SQL. Donnez les commandes les plus utilisées de ce langage et les différentes jointures qu’il est possible de faire. 
+### I. Définissez le langage SQL. Donnez les commandes les plus utilisées de ce langage et les différentes jointures qu’il est possible de faire. 
 SQL (Structured Query Language) est un langage informatique normalisé servant à exploiter des bases de données relationnelles1. Il permet de rechercher, d’ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
 
